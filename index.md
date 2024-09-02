@@ -14,3 +14,6 @@
 ```python
 var 1= "Hello, World!";
 ```
+- [x] Turn on Github Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
